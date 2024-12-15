@@ -30,9 +30,9 @@ Here are some of my projects that showcase my expertise:
 ---
 
 ## 📫 Connect with Me
-- 🌐 **Portfolio**: [Your Portfolio Link](https://raltom1.github.io/portfolio/)
-- 📧 **Email**: [your-email@example.com](mailto:your-email@ccom1892@gmail.com)
-- 🌍 **Facebook**: [fb.com/yourusername](https://fb.com/if.else.printme)
+- 🌐 **Portfolio**: (https://raltom1.github.io/portfolio/)
+- 📧 **Email**: (mailto:your-email@ccom1892@gmail.com)
+- 🌍 **Facebook**:(https://fb.com/if.else.printme)
 
 
 ---
