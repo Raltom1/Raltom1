@@ -30,7 +30,7 @@ Here are some of my projects that showcase my expertise:
 ## 📫 Connect with Me
 - 🌐 **Portfolio**:(https://raltom1.github.io/portfolio/) / (https://portfolio-raltom1.netlify.app/)
 - 📧 **Email**: (ccom1892@gmail.com)
-- 🌍 **Facebook**:(https://fb.com/if.else.printme)
+
 
 
 ---
