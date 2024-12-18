@@ -17,7 +17,7 @@ Here are some of my projects that showcase my expertise:
 
 - **Portfolio Website**  
   A fully responsive portfolio website built with React, showcasing my work and skills.  
-  [View Project](https://raltom1.github.io/portfolio/) / (https://portfolio-raltom1.netlify.app/)
+  [(https://raltom1.github.io/portfolio)](https://raltom1.github.io/portfolio/) / (https://portfolio-raltom1.netlify.app/)
 
 - **E-Commerce Platform**  
   A full-stack application using React (frontend) and PHP (backend) with features like user authentication, product listings, and shopping cart.  
