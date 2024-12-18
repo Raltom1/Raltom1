@@ -17,15 +17,13 @@ Here are some of my projects that showcase my expertise:
 
 - **Portfolio Website**  
   A fully responsive portfolio website built with React, showcasing my work and skills.  
-  [View Project](#)
+  [View Project](https://raltom1.github.io/portfolio/)
 
 - **E-Commerce Platform**  
   A full-stack application using React (frontend) and PHP (backend) with features like user authentication, product listings, and shopping cart.  
-  [View Project](#)
+  [View Project](https://github.com/Raltom1/EXPENSE-TRACKER)
 
-- **Python Automation Tools**  
-  Various Python scripts and tools for automating repetitive tasks and data processing.  
-  [View Repo](#)
+
 
 ---
 
