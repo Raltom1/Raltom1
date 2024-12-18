@@ -16,7 +16,7 @@ I'm a passionate **Full Stack Developer** and **Programmer** skilled in both **f
 Here are some of my projects that showcase my expertise:
 
 - **Portfolio Website**  
-  A fully responsive portfolio website built with React, showcasing my work and skills.  
+  A fully responsive portfolio website.  
   [(https://raltom1.github.io/portfolio)](https://raltom1.github.io/portfolio/) / (https://portfolio-raltom1.netlify.app/)
 
 - **E-Commerce Platform**  
