@@ -20,7 +20,7 @@ Here are some of my projects that showcase my expertise:
   [(https://raltom1.github.io/portfolio)](https://raltom1.github.io/portfolio/) / (https://portfolio-raltom1.netlify.app/)
 
 - **E-Commerce Platform**  
-  A full-stack application using React (frontend) and PHP (backend) with features like user authentication, product listings, and shopping cart.  
+  A full-stack application using React (frontend) with features like user product listings, and shopping cart.  
   [View Project](https://github.com/Raltom1/EXPENSE-TRACKER)
 
 
