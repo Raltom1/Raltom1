@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-I'm a passionate **Programmer** skill, **frontend** and **backend** development. I love building web applications and solving problems using code.
+I'm a passionate **frontend** and **backend** development. I love building web applications and solving problems using code.
 
 ## 💻 Technologies I Work With
 - **Frontend Development**: JavaScript,HTML, CSS, React
