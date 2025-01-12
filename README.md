@@ -1,14 +1,12 @@
 # Hi there! 👋 
 
-I'm a passionate **Full Stack Developer** and **Programmer** skilled in both **frontend** and **backend** development. I love building web applications and solving problems using code.
+I'm a passionate **Programmer** skill, **frontend** and **backend** development. I love building web applications and solving problems using code.
 
 ## 💻 Technologies I Work With
-- **Frontend Development**: JavaScript, React, HTML, CSS, Bootstrap
-- **Backend Development**: PHP, Node.js
+- **Frontend Development**: JavaScript,HTML, CSS, React
+- **Backend Development**: Node.js
 - **Programming Languages**: Python, Java, C++, C#
-- **Database**: MySQL, MongoDB
-- **Other Skills**: Git, REST APIs, Deployment (Heroku, Vercel, etc.)
-
+- **Database**: MySQL
 ---
 
 ## 🖥️ Featured Projects
@@ -20,7 +18,7 @@ Here are some of my projects that showcase my expertise:
   [(https://raltom1.github.io/portfolio)](https://raltom1.github.io/portfolio/) / (https://portfolio-raltom1.netlify.app/)
 
 - **E-Commerce Platform**  
-  A full-stack application using React (frontend) with features like user product listings, and shopping cart.  
+  A application using (frontend) with features like user product listings, and shopping cart.  
   [View Project](https://github.com/Raltom1/EXPENSE-TRACKER)
 
 
@@ -29,7 +27,7 @@ Here are some of my projects that showcase my expertise:
 
 ## 📫 Connect with Me
 - 🌐 **Portfolio**:(https://raltom1.github.io/portfolio/) / (https://portfolio-raltom1.netlify.app/)
-- 📧 **Email**: (ccom1892@gmail.com)
+- 📧 **Email**: (Solayaoeman1@gmail.com)
 
 
 
