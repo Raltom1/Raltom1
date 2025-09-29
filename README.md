@@ -3,6 +3,13 @@
 I'm a passionate **frontend** and **backend** developer. I love building web applications and solving problems using code.
 
 ---
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raltom1&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raltom1&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
 
 ## 💻 Technologies I Work With
 
@@ -37,14 +44,6 @@ A fully responsive portfolio website.
 ### 🛒 E-Commerce Platform  
 A full-stack application with features like product listings and a shopping cart.  
 🔗 [View Project](https://github.com/Raltom1/EXPENSE-TRACKER)
-
----
-
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raltom1&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raltom1&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
