@@ -7,8 +7,12 @@ I'm a passionate frontend and backend developer. I love building web application
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="[YOUR_GITHUB_STATS_IMAGE_URL]" height="150"/>
-  <img src="[YOUR_TOP_LANGS_IMAGE_URL]" height="150"/>
+  <a href="https://github.com/Raltom1">
+    <img src="https://github-readme-stats.vercel.app/api?username=Raltom1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/Raltom1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raltom1&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  </a>
 </p>
 
 ---
