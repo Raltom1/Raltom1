@@ -1,28 +1,67 @@
-# Hi there! 👋
+👋 Hi there, I'm EMAN!
 
-I'm a passionate frontend and backend developer. I love building web applications and solving problems using code.
+💻 A passionate Frontend & Backend Developer who loves building clean, functional, and user-friendly applications.
+🚀 I enjoy solving real-world problems through code and continuously improving my skills.
 
 ---
 
-## 📊 GitHub Stats & Activity
+🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Raltom1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Raltom1&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>---
+
+📊 GitHub Stats & Activity
+
+<p align="center">
+  <a href="https://github.com/Raltom1">
+    <img src="https://github-readme-stats.vercel.app/api?username=Raltom1&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   </a>
   <a href="https://github.com/Raltom1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raltom1&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raltom1&layout=compact&theme=tokyonight&hide_border=true" height="150" />
   </a>
-</p>
+</p>---
+
+🛠️ Technologies & Tools
+
+🚀 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,nodejs" />
+</p>🧰 Tools & IDEs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/NetBeans-IDE-blue?style=for-the-badge&logo=apache&logoColor=white" />
+</p>---
+
+📌 Featured Project
+
+🎓 Enrollment System (Java - NetBeans)
+A simple enrollment system with GUI and file-based storage.
 
 ---
 
-## 💻 Technologies I Work With
+🎯 Goals
 
-### 🚀 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+- 🔥 Improve full-stack development skills
+- 🚀 Build real-world projects
+- 💡 Learn advanced system design
+- 🧠 Become a professional software engineer
+
+---
+
+⭐ Fun Fact
+
+I don’t just write code — I build systems that solve problems.
+
+---</p>
 
 ### ⚙️ Backend
 <p>
