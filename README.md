@@ -41,10 +41,6 @@
   <img src="https://img.shields.io/badge/NetBeans-IDE-blue?style=for-the-badge&logo=apache&logoColor=white" />
 </p>---
 
-📌 Featured Project
-
-🎓 Enrollment System (Java - NetBeans)
-A simple enrollment system with GUI and file-based storage.
 
 ---
 
