@@ -1,11 +1,11 @@
-👋 Hi there, I'm EMAN!
+ Hi there, I'm EMAN!
 
-💻 A passionate Frontend & Backend Developer who loves building clean, functional, and user-friendly applications.
-🚀 I enjoy solving real-world problems through code and continuously improving my skills.
+ A passionate Frontend & Backend Developer who loves building clean, functional, and user-friendly applications.
+ I enjoy solving real-world problems through code and continuously improving my skills.
 
 ---
 
-🌐 Connect With Me
+ Connect With Me
 
 <p align="center">
   <a href="https://github.com/Raltom1">
@@ -13,7 +13,7 @@
   </a>
 </p>---
 
-📊 GitHub Stats & Activity
+ GitHub Stats & Activity
 
 <p align="center">
   <a href="https://github.com/Raltom1">
@@ -24,17 +24,17 @@
   </a>
 </p>---
 
-🛠️ Technologies & Tools
+ Technologies & Tools
 
-🚀 Frontend
+ Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>⚙️ Backend
+</p> Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,nodejs" />
-</p>🧰 Tools & IDEs
+</p> Tools & IDEs
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -44,54 +44,54 @@
 
 ---
 
-🎯 Goals
+ Goals
 
-- 🔥 Improve full-stack development skills
-- 🚀 Build real-world projects
-- 💡 Learn advanced system design
-- 🧠 Become a professional software engineer
+-  Improve full-stack development skills
+-  Build real-world projects
+-  Learn advanced system design
+-  Become a professional software engineer
 
 ---
 
-⭐ Fun Fact
+ Fun Fact
 
 I don’t just write code — I build systems that solve problems.
 
 ---</p>
 
-### ⚙️ Backend
+###  Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
-### 🖥️ Programming Languages
+###  Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,cs" />
 </p>
 
-### 🗄️ Database
+###  Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
 
-## 🖥️ Featured Projects
+##  Featured Projects
 
-### 🌐 Portfolio Website
+###  Portfolio Website
 A fully responsive portfolio website showcasing my skills and projects.
-🔗 [GitHub Pages](https://raltom1.github.io/portfolio/) | [Netlify](https://portfolio-raltom1.netlify.app/)
+ [GitHub Pages](https://raltom1.github.io/portfolio/) | [Netlify](https://portfolio-raltom1.netlify.app/)
 
-### 🛒 E-Commerce Platform
+###  E-Commerce Platform
 A full-stack e-commerce application with features like product listings and a shopping cart, built with React.
-🔗 [View Project](https://github.com/Raltom1/EXPENSE-TRACKER)
+ [View Project](https://github.com/Raltom1/EXPENSE-TRACKER)
 
 ---
 
-## 📫 Connect with Me
-- 🌐 **Portfolio**: [GitHub Pages](https://raltom1.github.io/portfolio/) | [Netlify](https://portfolio-raltom1.netlify.app/)
-- 📧 **Email**: [Solayaoeman1@gmail.com](mailto:Solayaoeman1@gmail.com)
+##  Connect with Me
+-  **Portfolio**: [GitHub Pages](https://raltom1.github.io/portfolio/) | [Netlify](https://portfolio-raltom1.netlify.app/)
+-  **Email**: [Solayaoeman1@gmail.com](mailto:Solayaoeman1@gmail.com)
 
 ---
 
-⭐️ *Don't forget to star my repos if you find them helpful!*
+ *Don't forget to star my repos if you find them helpful!*
