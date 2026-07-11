@@ -80,7 +80,8 @@ I don’t just write code — I build systems that solve problems.
 
 ###  Portfolio Website
 A fully responsive portfolio website showcasing my skills and projects.
- [GitHub Pages](https://raltom1.github.io/portfolio/) | [Netlify](https://portfolio-raltom1.netlify.app/)
+ [GitHub Pages]
+ (https://my-portfolio-2018.netlify.app/)
 
 ###  E-Commerce Platform
 A full-stack e-commerce application with features like product listings and a shopping cart, built with React.
@@ -89,9 +90,8 @@ A full-stack e-commerce application with features like product listings and a sh
 ---
 
 ##  Connect with Me
--  **Portfolio**: [GitHub Pages](https://raltom1.github.io/portfolio/) | [Netlify](https://portfolio-raltom1.netlify.app/)
--  **Email**: [Solayaoeman1@gmail.com](mailto:Solayaoeman1@gmail.com)
-
+-  **Portfolio**: [GitHub Pages]  
+(https://my-portfolio-2018.netlify.app/)
 ---
 
  *Don't forget to star my repos if you find them helpful!*
