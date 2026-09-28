@@ -13,16 +13,18 @@
   </a>
 </p>---
 
- GitHub Stats & Activity
+ ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/Raltom1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Raltom1&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  </a>
-  <a href="https://github.com/Raltom1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raltom1&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-  </a>
-</p>---
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Raltom1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raltom1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180"
+  />
+</p>
 
  Technologies & Tools
 
