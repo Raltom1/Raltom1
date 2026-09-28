@@ -13,18 +13,12 @@
   </a>
 </p>---
 
- ## 📊 GitHub Stats & Activity
+ ## GitHub Stats & Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Raltom1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raltom1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="180"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raltom1&theme=tokyonight" />
 </p>
+
 
  Technologies & Tools
 
